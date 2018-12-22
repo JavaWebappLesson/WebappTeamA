@@ -8,3 +8,4 @@ test2
 
 test-morita3
 test-morita4
+test-morita5
